@@ -1,0 +1,27 @@
+{
+  "name": "newton-syntax",
+  "version": "0.0.0",
+  "description": "A low-eyestrain dark theme. Apple not included.",
+  "license": "MIT",
+  "theme": "syntax",
+  "keywords": [
+    "newton",
+    "dark",
+    "syntax",
+    "theme"
+  ],
+  "contributors": [
+    "Marco Bertolini"
+  ],
+  "homepage": "http://www.newtontheme.com",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "atom": ">=1.13"
+  }
+}
